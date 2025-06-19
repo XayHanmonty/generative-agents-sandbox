@@ -1,1 +1,1 @@
-# GenAgents_Sandbox
+# Generative Agents
