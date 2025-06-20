@@ -1,0 +1,12 @@
+openai
+langchain
+langchain-community
+chromadb
+tqdm
+rich
+fastapi
+uvicorn
+python-dotenv
+pydantic
+redis
+streamlit         # (for UI)
