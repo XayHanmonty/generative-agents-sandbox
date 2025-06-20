@@ -1,1 +1,1 @@
-# Generative Agents
+# Generative Agents: AI Agent Society
